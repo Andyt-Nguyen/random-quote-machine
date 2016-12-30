@@ -1,0 +1,25 @@
+body{
+	background-image: url("school/school.png");
+}
+
+div h1,p{
+	font-family: cursive;
+}
+p{
+	font-size: 20px;
+}
+div h3{
+	font-family: cursive;
+}
+
+.container{
+	text-align: center;
+	padding-top: 50px;
+}
+
+.quote-box{
+	border: 1px solid white;
+	border-radius: 70px;
+	padding: 40px;
+	margin-bottom: 15px;
+}
